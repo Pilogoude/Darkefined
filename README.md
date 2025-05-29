@@ -144,6 +144,6 @@ I'm working on v2 (Last activity on it: (see on modrinth))</p>
 
 
 ## License
-
-This resource pack is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.  
+This resource pack and its source files (.pdn) are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+You are free to share, modify, and use it commercially as long as attribution is provided and derivatives are licensed under the same terms.
 See the [LICENSE](./LICENSE) file for more information.
